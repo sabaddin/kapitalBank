@@ -1,0 +1,252 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.kptlbnk img{
+width: 100%;
+height: 100px;
+}
+.navbar ul li i{
+  width: 15px;
+  height: 15px;
+color: #f45369;
+
+   
+}
+.search {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #f45369;
+    border-radius: 5px;
+    margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+.navbar ul{
+    
+    display: flex; 
+    width: 90%;
+    
+}
+.navbar li{
+    margin-left: 20px;
+}
+
+.navbar li a{
+    text-decoration: none;
+    
+    font-size: 13px;
+    color: black;
+    font-weight: normal;
+}
+.bir{
+    cursor: pointer;
+    border-radius: 8px;
+    padding-top: 5px;
+    width: 100px;
+    height: 40px;
+    background-color: #f45369;
+
+}
+.bir span{
+    color: white;
+    font-size: 18px;
+}
+.bir img{
+    width: 20px;
+    height: 35px;
+}
+.navbarXidmet{
+    padding-top:20px ;
+    background-color: #e8ecf1;
+    height: 75px;
+}
+.xidmetler{
+margin-left: 20px;
+}
+
+.xidmetler ul{
+    
+    display: flex;
+   justify-content: center;
+   
+ 
+}
+.xidmetler ul a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    text-align: center;
+    
+}
+.xidmetler li{
+    margin-left: 20px;
+    
+}
+.text{
+    width: 50%;
+    height: 20vh;
+    margin: 40px 0 30px 0;
+    margin-left: 140px;
+    margin-right: auto;
+}
+.text h1{
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+.three{
+    border-radius: 20px;
+    background-color: #f9fafb;
+    width: 82%;
+    height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.telebat{
+    
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.btn1{
+    width: 50%;
+    height: 8vh;
+    background-color: #f45369;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.btn2{
+    width: 40%;
+    height: 8vh;
+    background-color:none;
+    border: none;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.four{
+    height: 950px;
+}
+.etrafli1{
+    
+    width: 82%;
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mikro{
+    margin-top: 25px;
+    border-radius: 20px;
+    padding-left: 25px;
+    border: 1px solid rgb(224, 223, 223);
+    height: 60vh;
+}
+.mikro img{
+    margin : 7% 0 8% 0;
+    width: 35%;
+    height: 25vh;
+}
+.teminat{
+    margin-top: 25px;
+    border-radius: 20px;
+   padding-left: 25px;
+    border: 1px solid rgb(224, 223, 223);
+    height: 60vh;
+}
+.teminat img{
+    width: 50%;
+    height: 20vh;
+    margin: 10% 0 10% 0;
+}
+.emanet{
+    margin-top: 25px;
+    border-radius: 20px;
+    padding-left: 25px;
+    border: 1px solid rgb(224, 223, 223);
+    height: 60vh;
+}
+.emanet img{
+    width: 40%;
+    height: 20vh;
+    margin: 11% 0 11% 0;
+}
+.emlak{
+    margin-top: 25px;
+    border-radius: 20px;
+    padding-left: 25px;
+    border: 1px solid rgb(224, 223, 223);
+    height: 60vh;
+}
+.emlak img{
+    width: 35%;
+    height: 25vh;
+    margin: 7% 0 8% 0;
+}
+.navbar3{
+    font-size: 14px;
+    width: 100%;
+    height: 70px;
+    background-color: #f9fafb;
+}
+.navbar3 ul{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar3 a{
+    text-decoration: none;
+    color: black;
+}
+.intodaction{
+    padding-top: 50px;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(52, 51, 51);
+    color: white;
+}
+.intodaction div a{
+    text-decoration: none;
+    color: white;
+    
+}
+.intodaction div p{
+    font-size: 13px;
+}
+.mobtetbiq{
+   width: 100%;
+  height: auto;
+}
+.sinif{
+    
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+    height: 50px;
+    font-size: 10px;
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(202, 11, 11);
+
+}
+.mobtetbiq div a p{
+
+}
+.mobtetbiq a{
+    width: 20px;
+    height: auto;
+    
+}
+.sinif{
+    width: 80%;
+}
+.sinif a{
+    margin: 15px 10px 0 10px;
+width: 12%;
+height: 12vh;
+   
+}
